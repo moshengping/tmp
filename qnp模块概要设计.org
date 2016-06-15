@@ -13,5 +13,5 @@
 
 * 概要设计
 
-  [[file:qans实现块图.png]] 
+  [[file:image/qans实现块图.png]] 
 [[http://7xqi7h.com1.z0.glb.clouddn.com/21vianet_2016_comference_1.jpg]]
